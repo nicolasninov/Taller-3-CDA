@@ -1,3 +1,3 @@
 # Taller-3-CDA
 
-Se adjunta el notebook ejecutado: 'Taller2.ipynb' y una carpeta ZIP con el API
+Se adjunta carpeta con API y notebook del desarrollo del taller 3
